@@ -1,0 +1,52 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .light-style {
+    background: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .font-weight-bold {
+    font-weight: 700;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .row-bordered {
+    border-right: 1px solid #ddd;
+  }
+  
+  .list-group-item-action.active {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .ui-w-80 {
+    width: 80px;
+  }
+  
+  .account-settings-fileinput {
+    display: none;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .custom-checkbox {
+    display: flex;
+    align-items: center;
+  }
+  
+  .custom-checkbox input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
